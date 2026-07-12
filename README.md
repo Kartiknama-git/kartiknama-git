@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm <b>Kartik Nama</b></h1>
+<h1 align="center"> Hello, I'm <b><u>Kartik Nama</u></b></h1>
 <h3 align="center">Let's upgrade yourself for future.</h3>
 
 # 💫 About Me:
@@ -27,4 +27,3 @@ I'm currently learning web development<br>Currently sharpening my skills through
 ---
 [![](https://komarev.com/ghpvc/?username=Kartiknama-git&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
