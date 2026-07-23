@@ -122,7 +122,7 @@ I'm currently learning web development<br>Currently sharpening my skills through
 
 ## AIM <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
 <p align="center">
-  <img src="" />
+  <img src="Screenshot 2026-07-24 032733.png" />
 </p>
 
 <!-- ### 🔝 Top Contributed Repo
