@@ -1,4 +1,12 @@
-<h1 align="center"> Hello, I'm <b><u>Kartik Nama</u></b></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=180&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=58A6FF&repeat=false&lines=Hi!%2C+I'm+Kartik+" 
+      alt="Typing Quote" 
+    />
+  </a>
+</p>
+<!-- <h1 align="center"> Hello, I'm <b><u>Kartik Nama</u></b></h1> -->
 <!-- <h3 align="center">Let's upgrade yourself for future.</h3> -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Let's+upgrade+yourself+for+future.;Frontend+Developer+in+Progress;Passionate+about+Website+Design;Always+Learning+New+Technologies;Building+Modern+%26+Responsive+Websites;Dream.+Code.+Create." />
