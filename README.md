@@ -107,14 +107,26 @@ I'm currently learning web development<br>Currently sharpening my skills through
   <img src="https://github-readme-streak-stats-five-vert.vercel.app/?user=kartiknama-git&theme=dark&date_format=j%20M%5B%20Y%5D" alt="kartiknama" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kartiknama-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📊
+<p align="center">
+  <a href="https://github.com/kartiknama-git">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartiknama-git&theme=high-contrast&bg_color=000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="kartik's github activity graph" />
+  </a>
+</p>
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kartiknama-git&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kartiknama-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## AIM <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
+<p align="center">
+  <img src="" />
+</p>
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kartiknama-git&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://komarev.com/ghpvc/?username=Kartiknama-git&icon=3&color=0)](https://visitcount.itsvg.in)
