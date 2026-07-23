@@ -6,6 +6,7 @@
     />
   </a>
 </p>
+<hr>
 <!-- <h1 align="center"> Hello, I'm <b><u>Kartik Nama</u></b></h1> -->
 <!-- <h3 align="center">Let's upgrade yourself for future.</h3> -->
 <p align="center">
