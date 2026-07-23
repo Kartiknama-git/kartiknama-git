@@ -1,17 +1,38 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=180&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=58A6FF&repeat=false&lines=Hi!%2C+I'm+Kartik+" 
+      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=170&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=58ffFF&repeat=false&lines=Hi!%2C+I'm+Kartik+" 
       alt="Typing Quote" 
     />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Chewy&size=34&duration=3000&color=d0ff00&pause=1000&center=true&vCenter=true&width=700&lines=Let's+upgrade+yourself+for+future.;Frontend+Developer+in+Progress;Passionate+about+Website+Design;Always+Learning+New+Technologies;Building+Modern+%26+Responsive+Websites;Dream.+Code.+Create." />
+</p>
+
+<p align="center" style="margin-top:12px;">
+  <img 
+    alt="Currently Learning" 
+    src="https://img.shields.io/badge/Currently%20Learning-Cyber Security%20|%20Networking-F7DF1E?style=for-the-badge" 
+  />
+</p>
+<p align="center" style="margin-top:12px;">
+  <a href="http://namakartikportfolio.vercel.app/" target="_blank">
+    <img 
+      alt="Portfolio" 
+      src="https://img.shields.io/badge/Portfolio-044982?style=for-the-badge&logo=googlechrome&logoColor=white" 
+    />
+  </a>
+  <img 
+    alt="Location"
+    src="https://img.shields.io/badge/KOTA /%20 RAJ.-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white"
+  />
+</p>
 <hr>
 <!-- <h1 align="center"> Hello, I'm <b><u>Kartik Nama</u></b></h1> -->
 <!-- <h3 align="center">Let's upgrade yourself for future.</h3> -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Let's+upgrade+yourself+for+future.;Frontend+Developer+in+Progress;Passionate+about+Website+Design;Always+Learning+New+Technologies;Building+Modern+%26+Responsive+Websites;Dream.+Code.+Create." />
-</p>
+
 
 # 💫 About Me:
 I'm currently learning web development<br>Currently sharpening my skills through coding practice<br>Also exploring new technologies<br>I believe great ideas deserve great design<br>Building responsive and user-friendly websites<br>Every project is an opportunity to learn
