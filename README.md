@@ -129,6 +129,6 @@ I'm currently learning web development<br>Currently sharpening my skills through
 ![](https://github-contributor-stats.vercel.app/api?username=Kartiknama-git&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kartiknama-git&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Kartiknama-git&icon=23&color=green)](https://github.com/Kartiknama-git)
 
 <h2 align="center">Thanks for Visiting ❤ Keep Coding!</h2>
